@@ -40,7 +40,7 @@
         "views/otp_signup.xml",
         "data/cron.xml"
     ],
-    "price": 30,
+    "price": 5,
     "currency": "USD",
     "license": "LGPL-3",
     "installable": True,
