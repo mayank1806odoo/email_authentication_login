@@ -3,7 +3,7 @@
     "name": "Email OTP Authentication",
     "version": "17.0.1.0",
     "author": "Mayank Prajapati",
-    "category": "Authentication & Security",
+    "category": "Extra Tools",
     "summary": """
         Secure OTP-based authentication for user login & signup in Odoo.
     """,
